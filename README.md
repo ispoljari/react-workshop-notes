@@ -36,6 +36,7 @@ The Mental model for hooks is similar to the mental model for class component li
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [React Cheetsheet](https://devhints.io/react)
 - [Props vs. State](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
+- [StyledComponents](https://styled-components.com/)
 
 # Wireframes
 
