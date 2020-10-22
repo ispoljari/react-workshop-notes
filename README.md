@@ -19,6 +19,8 @@ Build encapsulated components that manage their own state, then compose them to 
 
 Data flows from parent to children components
 
+# React Mental Models
+
 [React Class Lifecycle](https://miro.medium.com/max/4560/1*EnuAy1kb9nOcFuIzM49Srw.png)
 
 [React Hooks Lyfecyle](https://repository-images.githubusercontent.com/196048036/cc006f00-a420-11e9-99a6-d0bdf5f0c7bb)
