@@ -57,4 +57,4 @@ The Mental model for hooks is similar to the mental model for class component li
 # CodeSandbox
 
 [JobFair - React Workshop Start](https://codesandbox.io/s/jobfair-react-workshop-start-80ivi)
-[JobFair - React Workshop Final] https://codesandbox.io/s/jobfair-react-workshop-final-6twv6
+[JobFair - React Workshop Final](https://codesandbox.io/s/jobfair-react-workshop-final-6twv6)
